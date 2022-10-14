@@ -1,0 +1,24 @@
+div {
+    background: skyblue;
+}
+
+body {
+    background: lightblue;
+}
+
+img {
+    height: 550px;
+}
+
+div {
+    text-align: center;
+}
+
+h1 {
+    font-family: Lucida Handwriting;
+}
+
+h2 {
+    font-style: italic;
+}
+
