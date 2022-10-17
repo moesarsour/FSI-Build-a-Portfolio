@@ -1,5 +1,6 @@
 div {
     background: skyblue;
+    color: black;
 }
 
 body {
@@ -8,6 +9,7 @@ body {
 
 img {
     height: 550px;
+    border-radius: 95%;
 }
 
 div {
@@ -16,9 +18,19 @@ div {
 
 h1 {
     font-family: Lucida Handwriting;
+    color: black;
 }
 
 h2 {
     font-style: italic;
+    color: white;
+}
+
+h3{
+    font-family: Franklin Gothic Medium;
+}
+
+p {
+    color: red;
 }
 
